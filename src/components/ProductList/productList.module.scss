@@ -1,0 +1,13 @@
+.productListCont {
+  display: flex;
+  width: 60vw;
+  margin: auto;
+  justify-content: space-between;
+}
+
+.productCont {
+  img {
+    width: 200px;
+    height: 200px;
+  }
+}
